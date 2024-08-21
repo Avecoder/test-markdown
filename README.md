@@ -18,4 +18,5 @@
 
 ![Одна собака][1]
 
-[1]: https://doka.guide/tools/markdown/demos/img/images/dog.svg "Собака смотрит влево"
+[1]: 
+https://doka.guide/tools/markdown/demos/img/images/dog.svg "Собака смотрит влево"
